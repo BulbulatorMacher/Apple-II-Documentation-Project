@@ -1,0 +1,1 @@
+Franklin Disk Drive Controller is a rebranded Micro-SCI A2 Controller with different info screen text
